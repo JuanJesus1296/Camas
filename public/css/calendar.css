@@ -1,0 +1,41 @@
+body {
+    background: #e7e7e7 !important;
+}
+
+.mt-8 {
+    margin-top: 20px;
+}
+
+
+
+.enlaces {
+    display: flex;
+    list-style: none;
+}
+
+.enlaces a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.evento :hover {
+    font-size: 15px;
+}
+
+nav {
+    background: #ffffff;
+
+}
+
+.navegacion {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+}
+
+.navegacion li a {
+    text-decoration: none;
+    color: #000000;
+}

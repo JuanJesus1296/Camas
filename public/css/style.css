@@ -1,0 +1,25 @@
+body {
+    background: url(../images/imagen-inicio-sanna.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panel {
+    margin-top: 80px;
+    opacity: .9;
+}
+
+.titulosanna {
+    color: #525252;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.mt-4 {
+    margin-top: 40px;
+}
+
+.sel {
+    border: 1px solid #e0e0e0;
+}

@@ -1,0 +1,17 @@
+th{
+    background-color: #00a650;
+    color: white;
+    font-size: x-large;
+    border: 0px !important;
+}
+
+td{
+    /* background-color: white; */
+    font-size: x-large;
+}
+
+.medium{
+    background-color: #00a650;
+    color: white;
+    border: white 1px solid;
+}

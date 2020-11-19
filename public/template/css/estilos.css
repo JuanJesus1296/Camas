@@ -1,0 +1,42 @@
+.fondocolor {
+    background: #e7e7e7 !important;
+}
+
+.circulo {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.icono {
+    font-size: 20px;
+}
+
+input,
+textarea {
+    border: 2px solid rgb(224, 224, 224) !important;
+}
+
+.evento :hover {
+    font-size: 16px;
+}
+
+select[readonly] {
+    background: #eee;
+    cursor: no-drop;
+}
+
+select[readonly] option {
+    display: none;
+}
+/*
+table>thead>tr {
+    font-size: .8rem !important;
+}
+
+table>tbody>tr {
+    font-size: .7rem !important;
+}*/
