@@ -124,7 +124,6 @@ class UsuariosController extends Controller
           return redirect()->route('cuentas.usuario');
       }
 
-
       public function activar($id){
           $usuario = User::find($id);
             if( !$usuario ) {
